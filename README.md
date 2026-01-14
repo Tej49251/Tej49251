@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building Python-based projects focused on problem solving and automation<br>Python projects (automation, backend, APIs)<br>System design basics for freshers<br>Advanced Python concepts<br>Python basics & logic building<br>SQL queries and database fundamentals<br>Git & GitHub workflow<br>Beginner interview preparation
+Building Python-based projects focused on problem solving and automation<br>Python projects (automation, backend, APIs)<br>System design basics for freshers<br>Advanced Python concepts<br>Python basics & logic building<br>SQL queries and database fundamentals<br>Git & GitHub workflow
 
 
 ## 🌐 Socials:
